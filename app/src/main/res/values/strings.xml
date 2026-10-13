@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jotocol</string>
+
+    <string name="channel_reminders">Habit reminders</string>
+    <string name="channel_reminders_description">Reminders for daily habits, repeated until done.</string>
+    <string name="reminder_text_due">Time to do this. Tap Done when finished.</string>
+    <string name="reminder_text_overdue">Still outstanding (reminder %1$d). Tap Done when finished.</string>
+    <string name="action_done">Done</string>
+    <string name="action_open">Open</string>
+
+    <string name="home_outstanding">Outstanding</string>
+    <string name="home_completed">Completed</string>
+    <string name="home_all_done">All done for today</string>
+    <string name="home_no_habits">No habits yet</string>
+    <string name="home_add_habit">Add habit</string>
+    <string name="home_notifications_off">Notifications off. Tap to allow.</string>
+    <string name="home_inexact_alarms">Reminders may be up to 10 min late. Tap to allow exact alarms.</string>
+
+    <string name="state_pending">Due at %1$s</string>
+    <string name="state_due">Due now</string>
+    <string name="state_overdue">Overdue</string>
+    <string name="state_completed">Done at %1$s</string>
+    <string name="state_disabled">Disabled</string>
+
+    <string name="detail_mark_done">Mark done</string>
+    <string name="detail_undo">Undo completion</string>
+    <string name="detail_edit">Edit</string>
+    <string name="detail_reminders_sent">Reminders sent today: %1$d</string>
+    <string name="detail_nfc">NFC tag</string>
+    <string name="detail_nfc_registered">NFC tag registered</string>
+    <string name="detail_delete">Delete habit</string>
+    <string name="detail_delete_confirm">Delete %1$s?</string>
+    <string name="confirm_yes">Delete</string>
+    <string name="confirm_no">Cancel</string>
+
+    <string name="edit_title_new">New habit</string>
+    <string name="edit_title">Edit habit</string>
+    <string name="edit_name">Name</string>
+    <string name="edit_time">Reminder time</string>
+    <string name="edit_repeat">Repeats daily</string>
+    <string name="edit_enabled">Enabled</string>
+    <string name="edit_reminders">Reminders</string>
+    <string name="edit_interval">Remind again every</string>
+    <string name="edit_interval_value">%1$d min</string>
+    <string name="edit_save">Save</string>
+    <string name="edit_name_prompt">Habit name</string>
+
+    <string name="nfc_title">NFC tag</string>
+    <string name="nfc_unsupported">This watch does not let apps read NFC tags. Use Mark done instead.</string>
+    <string name="nfc_disabled">NFC is turned off in watch settings.</string>
+    <string name="nfc_hold_tag">Hold a tag to the watch to link it to %1$s</string>
+    <string name="nfc_registered">Tag linked. Scan it again any time to mark this habit done.</string>
+    <string name="nfc_forget">Forget tag</string>
+    <string name="nfc_completed">%1$s done</string>
+    <string name="nfc_already_done">%1$s already done today</string>
+    <string name="nfc_unknown_tag">Unknown tag</string>
+    <string name="nfc_tag_in_use">Tag already linked to %1$s</string>
+
+    <string name="back">Back</string>
+</resources>
